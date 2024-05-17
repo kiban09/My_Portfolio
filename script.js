@@ -14,7 +14,7 @@ function Home() {
 
     React.createElement("img", {
       width: "40%",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/picture.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/picture.png",
       alt: "ProfilePic",
       style: { padding: "20px" } }), /*#__PURE__*/
 
@@ -94,7 +94,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/homeExercise.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/homeExercise.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -114,7 +114,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/quotegenerator.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/quotegenerator.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -145,7 +145,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/kinamReaction.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/kinamReaction.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -166,7 +166,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "70px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/calculator.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/calculator.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -196,7 +196,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/magic8ball.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/magic8ball.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -217,7 +217,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/markdown.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/markdown.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -247,7 +247,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/tabbedDodge.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/tabbedDodge.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -268,7 +268,7 @@ function Projects() {
     React.createElement("div", { style: { display: "flex", alignItems: "center" } }, /*#__PURE__*/
     React.createElement("img", {
       width: "80px",
-      src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/drumMachine.png",
+      src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/drumMachine.png",
       style: { padding: "5px" } }), /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
@@ -553,13 +553,13 @@ function Contact() {
         justifyContent: "center", paddingTop: '100px' } }, /*#__PURE__*/
 
     React.createElement("div", { style: { width: '50%', textAlign: "center" } }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '100px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/at.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '100px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/at.png" }), /*#__PURE__*/
     React.createElement("p", { style: { fontSize: '30px', fontWeight: '900' } }, "EMAIL"), /*#__PURE__*/
     React.createElement("p", null, "kevintom111294@gmail.com")), /*#__PURE__*/
 
 
     React.createElement("div", { style: { width: '50%', textAlign: "center" } }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '100px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/call.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '100px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/call.png" }), /*#__PURE__*/
     React.createElement("p", { style: { fontSize: '30px', fontWeight: '900' } }, "CALL / TEXT"), /*#__PURE__*/
     React.createElement("p", null, "+63 945 275 6958"))), /*#__PURE__*/
 
@@ -570,31 +570,31 @@ function Contact() {
 
     React.createElement("div", { class: "image-container" }, /*#__PURE__*/
     React.createElement("a", { href: "https://codepen.io/Kevin-Tom-the-builder" }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/codepen.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/codepen.png" }), /*#__PURE__*/
     React.createElement("span", { class: "text", style: { textAlign: 'center' } }, "Visit My Codepen Profile"))), /*#__PURE__*/
 
 
 
     React.createElement("div", { class: "image-container" }, /*#__PURE__*/
     React.createElement("a", { href: "https://www.freecodecamp.org/Kiban09" }, /*#__PURE__*/
-    React.createElement("img", { src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/freecodecamp.png", alt: "FreeCodeCamp Logo" }), /*#__PURE__*/
+    React.createElement("img", { src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/freecodecamp.png", alt: "FreeCodeCamp Logo" }), /*#__PURE__*/
     React.createElement("span", { class: "text", style: { textAlign: 'center' } }, "Visit My FreeCodeCamp Profile"))), /*#__PURE__*/
 
 
     React.createElement("div", { class: "image-container" }, /*#__PURE__*/
     React.createElement("a", { href: "https://www.facebook.com/kevin.tom.16" }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/facebook.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/facebook.png" }), /*#__PURE__*/
     React.createElement("span", { class: "text", style: { textAlign: 'center' } }, "Visit My Facebook Profile"))), /*#__PURE__*/
 
 
     React.createElement("div", { class: "image-container" }, /*#__PURE__*/
     React.createElement("a", { href: "https://www.linkedin.com/in/kevin-tom-42ba60261/" }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/linkedin.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/linkedin.png" }), /*#__PURE__*/
     React.createElement("span", { class: "text", style: { textAlign: 'center' } }, "Visit My LinkedIn Profile"))), /*#__PURE__*/
 
 
     React.createElement("div", { class: "image-container" }, /*#__PURE__*/
-    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/My_Portfolio/main/telegram.png" }), /*#__PURE__*/
+    React.createElement("img", { style: { width: '50px' }, src: "https://raw.githubusercontent.com/kiban09/Images_in_prtfolio/main/telegram.png" }), /*#__PURE__*/
     React.createElement("span", { class: "text", style: { textAlign: 'center' } }, "Contact me on Telegram"))))));
 
 
