@@ -373,7 +373,7 @@ function About() {
 
 
     React.createElement("a", {
-      href: "https://drive.google.com/file/d/1ZQB4vh4WaSP_NIL0bfjQSmKSYDmOoCxl/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1Sxke7wGPZ9SWLLWj3jX6Tzx_Q_yKVHoR/view?usp=sharing",
       style: {
         marginRight: '200px',
         display: 'inline-block',
